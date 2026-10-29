@@ -5,6 +5,7 @@ A "Simon Says"-style memory game built on a bare **ATmega328P** microcontroller.
 University project, Faculty of Engineering, Menoufia University (Dec 2024).
 
 <img src="images/memory_game.jpeg" alt="Memory game built on a breadboard" width="700">
+
 ![Circuit diagram](images/circuit_diagram.jpg)
 
 ## Features
