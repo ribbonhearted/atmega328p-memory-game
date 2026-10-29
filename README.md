@@ -4,7 +4,7 @@ A "Simon Says"-style memory game built on a bare **ATmega328P** microcontroller.
 
 University project, Faculty of Engineering, Menoufia University (Dec 2024).
 
-![Circuit diagram](images/circuit_diagram.png)
+![Circuit diagram](images/circuit_diagram.jpg)
 
 ## Features
 
